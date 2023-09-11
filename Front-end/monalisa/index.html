@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    canvas {
+      border: 1px solid #000;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="monalisaCanvas" width="800" height="1000"></canvas>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/4.5.0/fabric.min.js"></script>
+  <script>
+    const canvas = new fabric.Canvas('monalisaCanvas');
+
+    // Desenhar fundo
+    const backgroundRect = new fabric.Rect({
+      width: 800,
+      height: 1000,
+      fill: '#F0EAD6'
+    });
+    canvas.add(backgroundRect);
+
+    // Desenhar rosto
+    const face = new fabric.Circle({
+      radius: 250,
+      left: 275,
+      top: 350,
+      fill: '#E3CDA4'
+    });
+    canvas.add(face);
+
+    // Desenhar olhos
+    const leftEye = new fabric.Ellipse({
+      rx: 40,
+      ry: 60,
+      left: 200,
+      top: 280,
+      fill: '#FFFFFF'
+    });
+    const rightEye = new fabric.Ellipse({
+      rx: 40,
+      ry: 60,
+      left: 350,
+      top: 280,
+      fill: '#FFFFFF'
+    });
+    canvas.add(leftEye, rightEye);
+
+    // Desenhar boca
+    const mouth = new fabric.Ellipse({
+      rx: 90,
+      ry: 30,
+      left: 275,
+      top: 500,
+      fill: '#7C4840'
+    });
+    canvas.add(mouth);
+
+    // Desenhar nariz
+    const nose = new fabric.Rect({
+      width: 30,
+      height: 200,
+      left: 290,
+      top: 360,
+      fill: '#E3CDA4'
+    });
+    canvas.add(nose);
+
+    // Desenhar cabelo
+    const hair = new fabric.Circle({
+      radius: 350,
+      left: 275,
+      top: 350,
+      fill: '#352B1F'
+    });
+    canvas.add(hair);
+  </script>
+</body>
+</html>
