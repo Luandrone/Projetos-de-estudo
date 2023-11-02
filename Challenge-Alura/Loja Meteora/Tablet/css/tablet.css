@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+    :root {
+        --primeira-cor: #000000;
+        --segunda-cor: #CCCCCC;
+        --terceira-cor: #DAFF01;
+        --quarta-cor: #9353FF;
+        --quinta-cor: #FFFFFF;
+        --sexta-cor: #6C757D;
+    
+    }
+
+@media screen and (min-width: 376px) and (max-width: 768px)
+{
+
+    *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-family: 'Inter', sans-serif;
+    }
+
+    /*Estilização cabeçalho*/
+    
+    .cabecalho-nav {
+        background-color: var(--primeira-cor);
+        height: 58px;
+        width: 100%;
+    }
+
+    .cabecalho-nav img {
+        margin-left: 23px;
+    }
+
+    .cabecalho-nav ul {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        
+    }
+
+    .cabecalho-nav a{
+        font-size: 13px;
+        color: var(--quinta-cor);
+        text-decoration: none;
+    }
+
+    .cabecalho-nav input {
+        width: 145px;
+        height: 38px;
+        font-size: 13px;
+        text-align: center;
+        margin: 8px 16px 10px 40px;
+    }
+
+    .cabecalho-nav button {
+        background-color: var(--primeira-cor);
+        color: var(--quinta-cor);
+        height: 38px;
+        padding: 9px 12px;
+        border: 1px solid var(--quinta-cor);
+    }
+
+    /*Estilização categorias*/
+
+    .categoria h2 {
+        font-size: 28px;
+        font-weight: 500;
+        text-align: center;
+        margin: 40px 0 32px 0;
+    }
+
+    .categoria-imagens {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: 0 39px 0 39px;
+        gap: 30px;
+    }
+
+    .categoria-imagens img {
+        width: 209px;
+    }
+
+
+    .categoria-imagens p{
+        background-color: var(--primeira-cor);
+        color: var(--quinta-cor);
+        text-align: center;
+        margin-top: -4px;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 8px 16px 8px 16px;
+    }
+
+    /*Estilização produtos bombando*/
+
+    .produtos-bombando h2 {
+        text-align: center;
+        font-size: 28px;
+        font-weight: 500;
+        margin: 45px 0 32px 0;
+    }
+
+    .produtos-bombando h4 {
+        font-size: 16px;
+        font-weight: 700;
+        padding: 13px 0 13px 16px;
+    }
+
+    .produtos-bombando span {
+        font-size: 13px;
+        padding: 0 16px 16px 16px;
+        display: flex;
+    }
+
+    .produtos-bombando p {
+        font-size: 16px;
+        font-weight: 700;
+        padding: 16px 0 10px 16px;
+    }
+
+    .produtos-bombando button {
+        background-color: var(--quarta-cor);
+        color: var(--quinta-cor);
+        padding: 9px 16px 9px 16px;
+        margin: 0 0 16px 16px;
+    }
+
+    .produtos-bombando-informacoes {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+        margin-left: 39px;
+    }
+
+    .produtos-bombando-informacoes div {
+        width: 330px;
+        border: 1px solid var(--sexta-cor);
+    }
+
+    /*Estilização rodapé*/
+
+    
+
+    .rodape{
+        background-color: var(--primeira-cor);
+        color: var(--quinta-cor);
+        margin-top: 53px;
+    }
+
+    .rodape h2 {
+        text-align: center;
+        padding: 40px;
+    }
+    
+    .rodape-icones{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rodape-icones img {
+        height: 72px;
+    }
+
+    .rodape-icones div{
+       display: flex;
+       margin-bottom: 22px;
+    }
+
+    .rodape-icones-info{
+       display: flex;
+       flex-direction: column;
+    }
+
+    .rodape-icones-info span{
+        font-size: 16px;
+        font-weight: 700;
+        color: var(--terceira-cor);
+        padding: 0 0 16px 24px;
+        
+    }
+
+    .rodape-icones-info p {
+        font-size: 13px;
+        color: var(--quinta-cor);
+        padding-left: 24px;
+        width: 200px;
+    }
+
+    .cadastro {
+        border: 1px solid var(--primeira-cor);
+        margin: 40px;
+        padding: 40px;
+        
+    }
+
+    .cadastro p {
+        font-size: 20px;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+
+    .cadastro input{
+        font-size: 16px;
+        color: var(--sexta-cor);
+        width: 372px;
+        margin-left: 60px;
+        border: 1px solid var(--primeira-cor);
+        padding: 8px 0 8px 15px;
+    }
+
+    .cadastro button {
+        border: 1px solid var(--quarta-cor);
+        background-color: var(--quarta-cor);
+        color: var(--quinta-cor);
+        padding: 10px 18px;
+        
+    }
+
+    .copyright {
+        background-color: var(--primeira-cor);
+        color: var(--quinta-cor);
+        text-align: center;
+        font-size: 13px;
+        padding: 17px 23px;
+    }
+
+
+}

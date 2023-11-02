@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+    :root {
+        --primeira-cor: #000000;
+        --segunda-cor: #CCCCCC;
+        --terceira-cor: #DAFF01;
+        --quarta-cor: #9353FF;
+        --quinta-cor: #FFFFFF;
+        --sexta-cor: #6C757D;
+    
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-family: 'Inter', sans-serif;
+        
+    }
+
+@media screen and (max-width: 375px)
+{
+    /*Estilização cabeçalho*/
+
+    .cabecalho-nav li:first-child{
+        background-color: var(--primeira-cor);
+        
+    }
+
+    .cabecalho-nav img {
+        width: 125px;
+        height: 18px;
+        padding: 20px 0 20px 22px;
+    }
+
+    .cabecalho-nav input{
+        font-size: 13px;
+        color: var(--sexta-cor);
+        padding: 9px 0 9px 12px;
+        border: 1px solid var(--primeira-cor);
+        width: 225px;
+        margin: 24px 5px 24px 27px;
+        
+    }
+
+    .cabecalho-nav button {
+        border: 1px solid var(--primeira-cor);
+        font-size: 16px;
+        font-weight: 500;
+        background-color: var(--quinta-cor);
+        padding: 6px 12px;
+        width: 88px;
+        height: 37px;
+        margin-top: px;
+    }
+
+    /*Estilização categoria*/
+
+    .categoria h2 {
+        text-align: center;
+        margin: 24px 0 24px 0;
+    }
+
+    .categoria-imagens{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        margin: 0 27px 0 27px;
+        
+    }
+
+    .categoria-imagens p{
+        font-size: 16px;
+        font-weight: 500;
+        background-color: var(--primeira-cor);
+        color: var(--quinta-cor);
+        padding: 8px 0 8px 0;
+        text-align: center;
+        width: 146px;
+        margin-top: -4px;
+    }
+
+    .categoria-imagens a{
+        text-decoration: none;
+    }
+    
+    .categoria-imagens img {
+        width: 146px;
+    }
+
+    /*Estilização produtos que estão bombando*/
+
+    .produtos-bombando h2 {
+        text-align: center;
+        font-size: 28px;
+        font-weight: 500;
+        margin: 54px 27px 30px 27px;
+    }
+
+    .produtos-bombando-informacoes div {
+        border: 1px solid var(--segunda-cor);
+        width: 323px;
+        margin: 0 0 30px 27px ;
+    }
+
+    .produtos-bombando-informacoes h4 {
+        font-size: 16px;
+        font-weight: 700;
+        padding: 13px 0 13px 16px;
+    }
+
+    .produtos-bombando-informacoes span {
+        font-size: 13px;
+        margin-left: 16px;
+        display: flex;
+    }
+
+    .produtos-bombando-informacoes p {
+        font-size: 16px;
+        font-weight: 700;
+        padding: 16px 0 10px 16px;
+    }
+
+    .produtos-bombando-informacoes button {
+        background-color: var(--quarta-cor);
+        color: var(--quinta-cor);
+        padding: 9px 16px 9px 16px;
+        font-size: 16px;
+        font-weight: 500;
+        margin: 0 0 16px 16px;
+    }
+
+    /*Estilização rodapé*/
+
+    .rodape {
+        background-color: var(--primeira-cor);
+        height: 455px;
+    }
+
+    .rodape h2 {
+        color: var(--quinta-cor);
+        font-size: 24px;
+        text-align: center;
+        font-weight: 500;
+        padding-top: 32px;
+    }
+
+    .rodape-icones {
+        margin: 32px 28px ;  
+    }
+
+    .rodape-icones div {
+        display: flex;
+       
+    
+    }
+
+    .rodape-icones img {
+        width: 56px;
+        height: 56px;
+    }
+
+    .rodape-icones-info {
+        display: flex;
+        flex-direction: column;
+        margin-left: 24px;
+    }
+
+    .rodape-icones-info span{
+        font-size: 16px;
+        font-weight: 700;
+        color: var(--terceira-cor);
+    
+    }
+
+    .rodape-icones-info p {
+        font-size: 13px;
+        color: var(--quinta-cor);
+        margin: 16px 0 32px 0;
+        padding-right: 47px;
+    }
+
+    /*Estilização cadastro*/
+
+    .cadastro{
+        border: 1px solid var(--primeira-cor);
+        text-align: center;
+        width: 321px;
+        height: 179px;
+        margin: 40px 25px;
+    }
+
+    .cadastro p {
+        font-size: 16px;
+        padding: 24px 16px;
+    }
+
+    .cadastro input {
+        border: 1px solid var(--primeira-cor);
+        font-size: 16px;
+        padding: 8px 15px;
+        width: 185px;
+       
+    }
+
+    .cadastro button {
+        background-color: var(--quarta-cor);
+        color: var(--quinta-cor);
+        padding: 10px 16px;
+        border: 2px solid var(--quarta-cor);
+        border-bottom: hidden;
+       
+    }
+
+    .copyright{
+        font-size: 13px;
+        color: var(--quinta-cor);
+        background-color: var(--primeira-cor);
+        text-align: center;
+        padding: 23px 17px;
+        
+    }
+
+    .copyright p {
+        width: 246px;
+        padding-left: 40px;
+    }
+
+}

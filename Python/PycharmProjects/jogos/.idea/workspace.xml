@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b143155-6519-414c-9790-1785632d6433" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../7daysofcode" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7daysofcode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/1.5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/2.3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/3.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/quemSomos/quemSomos-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/quemSomos/quemSomos-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/quemSomos/quemSomos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/rodape.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/pessoa/pessoa-funcao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/pessoa/pessoa-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/pessoa/pessoa-nome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/pessoa/pessoa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/pessoas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/quemSomos/quemSomos-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/quemSomos/quemSomos-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/quemSomos/quemSomos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/pessoa/pessoa-funcao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/pessoa/pessoa-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/pessoa/pessoa-nome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/pessoa/pessoa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/pessoas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/quemSomos/quemSomos-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/quemSomos/quemSomos-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/quemSomos/quemSomos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/4.4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/pessoa/pessoa-funcao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/pessoa/pessoa-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/pessoa/pessoa-nome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/pessoa/pessoa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/pessoas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/quemSomos/quemSomos-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/quemSomos/quemSomos-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/quemSomos/quemSomos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/rodape.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/banner/banner-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/banner/banner-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/banner/banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/logo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/menu/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/menu/menu-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/menu/menu-lista.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/pessoa/pessoa-funcao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/pessoa/pessoa-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/pessoa/pessoa-nome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/pessoa/pessoa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/pessoas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/quemSomos/quemSomos-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/quemSomos/quemSomos-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/quemSomos/quemSomos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/receita/receita-botao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/receita/receita-conteudo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/receita/receita-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/receita/receita-imagem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/receita/receita-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/receita/receita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/receitas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/rodape.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/sobre/sobre-descricao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/sobre/sobre-titulo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/css/sobre/sobre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/pessoas/andreia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/pessoas/marcela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/pessoas/roberta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/receitas/beterrabas-assadas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/receitas/mix-de-vegetais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/receitas/pimentoes-a-juliana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/receitas/prato-oriental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/receitas/salada-de-kiwi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/assets/img/receitas/tigela-de-abacate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/5.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/arquitetura-css-master/arquitetura-css-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/base/_reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/base/_variaveis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/base/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/base/variaveis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/chamada.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/como-conseguir.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/botoes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/cabecalho.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/cartao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/input.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/produto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/rodape.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/componentes/video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/css/ofertas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/fundo-linhas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/fundo-textura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/carrinho.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/mouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/seta.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/truck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/icones/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/planta-chamada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/produto-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/produto-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/produto-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/produto-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/produto-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/produto-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/splash-chamada.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/assets/img/splash-rodape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/componentes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Arquitetura CSS Descomplicando os problemas/styleguide-css-Aula6/styleguide-css-Aula6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/css/estilos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/font/icones.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/artigo_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/artigo_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/artigo_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/artigo_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/banner-mobile_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/banner-mobile_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/banner_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/banner_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/mapa-picos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/miniatura_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/miniatura_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/miniatura_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/miniatura_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/miniatura_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/produto_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/produto_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/produto_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/produto_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/profile_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/profile_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/profile_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/video_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/video_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/video_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/assets/img/video_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dispondo elementos do grid/flex-e-grid-aula6/flex-e-grid-aula6/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exercicios de html/exe1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_final.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_final/1823_DOM-projeto_final/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_final/1823_DOM-projeto_final/projeto_final/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_final/1823_DOM-projeto_final/projeto_final/componentes/concluiTarefa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_final/1823_DOM-projeto_final/projeto_final/componentes/deletaTarefa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_final/1823_DOM-projeto_final/projeto_final/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_final/1823_DOM-projeto_final/projeto_final/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_incial.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_incial/1823_DOM-projeto_incial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_incial/1823_DOM-projeto_incial/projeto_inicial/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/1823_DOM-projeto_incial/1823_DOM-projeto_incial/projeto_inicial/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/Exercicio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/Exercicio/js/concluiTarefa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/Exercicio/js/deletaTarefa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/Exercicio/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS na Web Manipule o DOM com JavaScript/Exercicio/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jogos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2V82xsTOdF3wB4dOkiye9P4X9nx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Luan/Desktop/PROGRAMAÇÃO/Projetos-de-estudo/Python/Curso-Python-3-parte-1-Introdu-o-nova-vers-o-da-linguagem-capitulo5",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.adivinhacao">
+    <configuration name="adivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adivinhacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.adivinhacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b143155-6519-414c-9790-1785632d6433" name="Changes" comment="" />
+      <created>1694203636564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694203636564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
