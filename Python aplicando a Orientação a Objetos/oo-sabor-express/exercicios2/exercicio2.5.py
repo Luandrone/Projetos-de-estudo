@@ -14,3 +14,4 @@ cliente3 = Cliente('Charlie', 22, 'charlie@gamil.com', '103-456-7892')
 print(vars(cliente1))
 print(vars(cliente2))
 print(vars(cliente3))
+
